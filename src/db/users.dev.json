@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "username": "Admin",
+      "password": 1234,
+      "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFkbWluIiwicGFzc3dvcmQiOjEyMzQsImlhdCI6MTY4MzY2MDY5Mn0.mg-exuhledO2sUVwPcRSxZfSZpz6k26h20DsPa1H6Bw"
+    },
+    {
+      "username": "qwe",
+      "password": 1234
+    },
+    {
+      "username": "qwe",
+      "password": 12345
+    }
+  ]
+}
